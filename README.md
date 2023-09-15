@@ -1,13 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="100"/>
-  <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=Iqbalabdi&style=flat-square&color=blue" alt=""/>
-  </div>
 </div>
 
-
-
-## Hey! 👋 I'm *Iqbal*
+<center><h3>Hey! 👋 I'm <i>Iqbal</i></h3></center>
 
 ---
 
@@ -16,9 +11,9 @@
 
 - :rewind: Previously, I mostly focused on DevOps/Infra stuff.
 
-- :telescope: I’m currently learning Software Engineering and Cloud Native.
+- :telescope: I’m currently learning Software `Engineering` and Cloud Native.
 
-- :zap: In my free time, I solve problems on Leetcode and build something fun like this.
+- :zap: In my free time, I solve problems on Leetcode and build something fun like ```[This](https://github.com/Iqbalabdi/JLOX)```.
 
 ---
 
