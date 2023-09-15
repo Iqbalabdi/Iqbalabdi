@@ -46,10 +46,10 @@
     <tbody>
         <tr>
             <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbalabdi&layout=compact&theme=white" width="auto" height="160" alt="Top Langs" border="0"&amp;theme=default&amp;layout=compact&amp;hide=css,html,smarty,TypeScript" style="max-width: 100%;"></a>
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbalabdi&layout=compact&theme=vision-friendly-dark" width="auto" height="160" alt="Top Langs" border="0"&amp;theme=default&amp;layout=compact&amp;hide=css,html,smarty,TypeScript" style="max-width: 100%;"></a>
             </td>
             <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqbalabdi" width="auto" height="160" alt="Streak Stats" border="0" style="max-width: 100%;"></a>
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqbalabdi&theme=dark&background=000000" width="auto" height="160" alt="Streak Stats" border="0" style="max-width: 100%;"></a>
             </td>
         </tr>
     </tbody>
