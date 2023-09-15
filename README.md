@@ -1,10 +1,10 @@
-### Hey! 👋 I'm Iqbal
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+### Hey! 👋 I'm *Iqbal*
+<img src="https://komarev.com/ghpvc/?username=Iqbalabdi&style=flat-square&color=orange" alt=""/>
 
 ---
 
 ### :man_technologist: About Me :
-I am a fresh graduate of Informatics at ITS
+#### I am a fresh graduate of Informatics at ITS.
 
 - ::rewind: Previously, I mostly focused on DevOps/Infra stuff.
 
@@ -13,7 +13,7 @@ I am a fresh graduate of Informatics at ITS
 - :zap: In my free time, I solve problems on Leetcode and build something fun like this.
 
 ---
-### Reach out to me!
+### :pager: Reach out to me!
 <div id="badges">
   <a href="https://www.linkedin.com/in/abdi-miqbal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
