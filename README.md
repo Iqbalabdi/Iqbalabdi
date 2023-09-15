@@ -1,18 +1,27 @@
-### Hey! 👋 I'm *Iqbal*
-<img src="https://komarev.com/ghpvc/?username=Iqbalabdi&style=flat-square&color=orange" alt=""/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="100"/>
+  <div id="badges">
+    <img src="https://komarev.com/ghpvc/?username=Iqbalabdi&style=flat-square&color=blue" alt=""/>
+  </div>
+</div>
+
+
+
+## Hey! 👋 I'm *Iqbal*
 
 ---
 
 ### :man_technologist: About Me :
 #### I am a fresh graduate of Informatics at ITS.
 
-- ::rewind: Previously, I mostly focused on DevOps/Infra stuff.
+- :rewind: Previously, I mostly focused on DevOps/Infra stuff.
 
 - :telescope: I’m currently learning Software Engineering and Cloud Native.
 
 - :zap: In my free time, I solve problems on Leetcode and build something fun like this.
 
 ---
+
 ### :pager: Reach out to me!
 <div id="badges">
   <a href="https://www.linkedin.com/in/abdi-miqbal/">
