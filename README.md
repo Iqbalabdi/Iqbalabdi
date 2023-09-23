@@ -13,7 +13,7 @@
 
 - :rewind: Previously, I mostly focused on DevOps/Infra stuff.
 
-- :telescope: I’m currently learning Software Engineering and Cloud Native.
+- :telescope: I’m currently learning anything about Software Engineering and Cloud Native.
 
 - :zap: In my free time, I solve problems on Leetcode and build something fun like [This](https://github.com/Iqbalabdi/JLOX).
 
