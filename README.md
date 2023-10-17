@@ -16,7 +16,7 @@
 
 - :telescope: I’m currently learning anything about Software Engineering and Cloud Native.
 
-- :zap: In my free time, I like solving problems on Leetcode and build something fun like [This](https://github.com/Iqbalabdi/JLOX).
+- :zap: In my free time, I devote myself to solving problems on LeetCode and contributing to open-source projects.
 
 ---
 
