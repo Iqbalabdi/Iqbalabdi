@@ -16,7 +16,7 @@
 
 - :telescope: I’m currently learning anything about Software Engineering and Cloud Native.
 
-- :zap: In my free time, I devote myself to solving problems on LeetCode and contributing to open-source projects.
+- :zap: In my free time, I enjoy solving coding problems and contributing to open-source projects.
 
 ---
 
