@@ -4,7 +4,6 @@
 
 <div id="name" align="center">
     <h3>Hey! 👋 I'm <i>Iqbal</i>.</h3>
-    <a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=Iqbalabdi&color=blueviolet"></a>
 </div>
 
 ---
