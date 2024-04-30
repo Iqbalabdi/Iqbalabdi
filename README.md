@@ -9,7 +9,7 @@
 ---
 
 ### :man_technologist: About me
-#### I am a recent graduate of Informatics.
+#### I am a software engineer at Traveloka.
 
 - :rewind: Previously, I mostly focused on DevOps/Infra stuff.
 
